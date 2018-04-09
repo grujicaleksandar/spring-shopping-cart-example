@@ -1,4 +1,4 @@
-Spring Boot(Spring MVC,Spring Data JPA) project
+Spring Boot (Spring MVC, Spring Data JPA) project
 
 Shopping Cart example
 ================
